@@ -20,7 +20,7 @@ Ans.
 	 Row :- 
 	 1. Record
 
-	 2. Tuple (used in more technical or academic 				contexts)
+	 2. Tuple (used in more technical or academic contexts)
 
 
 	 Column : -
@@ -30,7 +30,7 @@ Ans.
 	 2. Attribute (used more in data modeling or
 			theoretical terms)
 ---------------------------------------------------
-Q.4 Why isn’t it possible to see the first five rows of a table?
+Q.4 Why isnâ€™t it possible to see the first five rows of a table?
  
 Ans. MySql doesnot have any type of command for see frist five rows of a table . we can shorted table in order by and set limit 5 and see first five row of table.
 ---------------------------------------------------
